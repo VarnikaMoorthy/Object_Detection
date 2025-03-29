@@ -19,6 +19,6 @@ This repository contains an **object detection model** trained using **YOLOv8** 
 ---
 ## 📥 Download Large Files
 **GitHub limits files over 100MB.** The model file (`yolov8s.pt`) and datasets are available for download:
-🔗 **[Object_Detection]**
+🔗 **(https://drive.google.com/drive/folders/1AKkPdAcy2Bx7h4YgPac9bEg4W9s7DWUX?usp=sharing)**
 
 
